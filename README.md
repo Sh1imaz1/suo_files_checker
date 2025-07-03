@@ -84,4 +84,4 @@ rule Example {
 
 ---
 📝 **License**: MIT  
-🐛 **Report Issues**: [Here](https://github.com/Sh1imaz1/suo_files_cheacker/issues)
+🐛 **Report Issues**: [Here](https://github.com/Sh1imaz1/suo_files_checker/issues)
